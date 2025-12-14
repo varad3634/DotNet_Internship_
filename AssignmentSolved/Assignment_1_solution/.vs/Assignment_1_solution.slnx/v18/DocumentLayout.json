@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\GitDemo\\DotNet_Internship_\\AssignmentSolved\\Assignment_1_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91674D9-26FA-4F42-8002-BBA551B17D24}|..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Assignments_3.2_solution.csproj|d:\\internship\\assignmentsolved\\assignments_3.2_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F07CAF-D706-43C0-89B8-084F72DC70B0}|..\\Assignment_3.2_solution\\Assignment_3.2_solution.csproj|d:\\internship\\assignmentsolved\\assignment_3.2_solution\\assignment_3.2_solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Migrations\\20251214114913_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\TaskContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91674D9-26FA-4F42-8002-BBA551B17D24}|..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Assignments_3.2_solution.csproj|d:\\internship\\assignmentsolved\\assignments_3.2_solution\\migrations\\20251214150549_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9486D0A-7175-4AF0-8538-AC912E29B38C}|..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj|d:\\internship\\assignmentsolved\\assignment_3.1_solution\\migrations\\20251214065838_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9486D0A-7175-4AF0-8538-AC912E29B38C}|..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj|d:\\internship\\assignmentsolved\\assignment_3.1_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9486D0A-7175-4AF0-8538-AC912E29B38C}|..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj|d:\\internship\\assignmentsolved\\assignment_3.1_solution\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9486D0A-7175-4AF0-8538-AC912E29B38C}|..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj|d:\\internship\\assignmentsolved\\assignment_3.1_solution\\assignment_3.1_solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2BB71E-B88D-47C9-9E17-F9E65220B296}|..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution_Part 2\\Assignment_2_solution_Part 2.csproj|d:\\internship\\assignmentsolved\\assignment_2_solution_part 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE112B9-702B-4B79-B356-5D275776A9E2}|..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution\\Assignment_2_solution.csproj|d:\\internship\\assignmentsolved\\assignment_2_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Internship\\GitDemo\\DotNet_Internship_\\AssignmentSolved\\Assignment_1_solution\\Assignment_1_solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment_1_solution\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251214150549_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignments_3.2_solution\\Migrations\\20251214150549_mg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Migrations\\20251214150549_mg.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignments_3.2_solution\\Migrations\\20251214150549_mg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Migrations\\20251214150549_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:05:50.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignments_3.2_solution\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignments_3.2_solution\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignments_3.2_solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:03:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251214114913_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Migrations\\20251214114913_mg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Migrations\\20251214114913_mg.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Migrations\\20251214114913_mg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Migrations\\20251214114913_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:49:13.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\TaskContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\TaskContext.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\TaskContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:38:40.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment_3.2_solution.csproj",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Assignment_3.2_solution.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Assignment_3.2_solution.csproj",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Assignment_3.2_solution.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Assignment_3.2_solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T11:32:45.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.2_solution\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.2_solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T11:21:14.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251214065838_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Migrations\\20251214065838_mg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Migrations\\20251214065838_mg.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Migrations\\20251214065838_mg.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Migrations\\20251214065838_mg.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:58:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwIEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:55:25.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Student.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Student.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Student.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T06:54:51.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment_3.1_solution.csproj",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_3.1_solution\\Assignment_3.1_solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-14T06:54:51.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_2_solution_Part 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution_Part 2\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_2_solution_Part 2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution_Part 2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwGoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T14:14:24.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_2_solution\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_2_solution\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AssignmentSolved\\Assignment_2_solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:53:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\AssignmentSolved\\Assignment_1_solution\\Assignment_1_solution\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\AssignmentSolved\\Assignment_1_solution\\Assignment_1_solution\\Program.cs",
+              "RelativeToolTip": "Assignment_1_solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:50:55.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
