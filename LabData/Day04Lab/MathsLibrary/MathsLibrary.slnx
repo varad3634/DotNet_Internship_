@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../ConsoleApp/ConsoleApp.csproj" Id="1d59ff82-096d-4bb8-bf3b-d328d68884f2" />
+  <Project Path="../MvcDemo1/MvcDemo1.csproj" Id="981df78b-5ddb-411c-a0e9-dd4ce90d7348" />
+  <Project Path="../Reflection/Reflection.csproj" Id="acf0d2a9-5497-4ff0-9f2a-a683e6f30d17" />
+  <Project Path="MathsLibrary/MathsLibrary.csproj" />
+</Solution>

@@ -1,0 +1,44 @@
+﻿@model List<MvcDemo1.Models.Student>
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <h1>Student Information</h1>
+        <a href="/Home/Create" class="btn btn-success">Add New Student</a>
+   
+    <table class="table table-bordered border-Danger table-dark table-hover">
+
+        <thead>
+            <tr>
+                <th scope="col">Student ID</th>
+                <th scope="col">Student Name</th>
+                <th scope="col">Course ID</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td scope="row">@item.StudentId</td>
+                    <td>@item.StudentName</td>
+                    <td>@item.CourseId</td>
+                    <td>@item.CourseName</td>
+                    <td>
+                        <a href="/Home/Edit/@item.StudentId" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="/Home/Delete/@item.StudentId"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Are you sure you want to delete student ID @item.StudentId (@item.StudentName)?');">
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+

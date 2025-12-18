@@ -1,0 +1,35 @@
+﻿@model MvcDemo1.Models.Student
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <form action="/Home/AfterEdit">
+        <table class="table">
+
+            <tr>
+                <td><input type="hidden" name="StudentId" value="@Model.StudentId" /></td>
+            </tr>
+            
+            <tr>
+                <td>StudentName</td>
+                <td><input type="text" name="StudentName" value="@Model.StudentName" /></td>
+            </tr>
+            <tr>
+                <td>CourseId</td>
+                <td><input type="text" name="CourseId" value="@Model.CourseId" /></td>
+            </tr>
+            <tr>
+                <td>CourseName</td>
+                <td><input type="text" name="CourseName" value="@Model.CourseName" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit"/></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

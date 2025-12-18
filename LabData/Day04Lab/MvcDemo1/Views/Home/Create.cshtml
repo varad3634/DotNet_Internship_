@@ -1,0 +1,31 @@
+﻿@model List<MvcDemo1.Models.Student>
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+
+    <form action="/Home/AfterCreate">
+        <table class="table">
+
+            <tr>
+                <td>StudentName</td>
+                <td><input type="text" name="StudentName" /></td>
+            </tr>
+            <tr>
+                <td>CourseId</td>
+                <td><input type="text" name="CourseId" /></td>
+            </tr>
+            <tr>
+                <td>CourseName</td>
+                <td><input type="text" name="CourseName" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

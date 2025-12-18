@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\assignment_4_solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\assignment_4_solution.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|d:\\internship\\assignmentsolved\\assignment_4_solution\\assignment_4_solution\\migrations\\20251216040355_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A28AF1-4DE2-D865-9CC1-8F3E4CC06893}|Assignment_4_solution\\Assignment_4_solution.csproj|solutionrelative:assignment_4_solution\\migrations\\20251216040355_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T03:53:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Assignment_4_solution\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T04:56:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Assignment_4_solution\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T06:50:23.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Models\\Student.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Models\\Student.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:48:13.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Models\\Course.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Models\\Course.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:48:34.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T03:59:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Assignment_4_solution\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T05:31:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Assignment_4_solution.csproj",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Assignment_4_solution.csproj",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Assignment_4_solution.csproj",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Assignment_4_solution.csproj",
+              "RelativeToolTip": "Assignment_4_solution\\Assignment_4_solution.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T02:54:43.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Program.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Program.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T06:20:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Assignment_4_solution\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T04:16:43.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251216040355_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Migrations\\20251216040355_mg.cs",
+              "RelativeDocumentMoniker": "Assignment_4_solution\\Migrations\\20251216040355_mg.cs",
+              "ToolTip": "D:\\Internship\\AssignmentSolved\\Assignment_4_solution\\Assignment_4_solution\\Migrations\\20251216040355_mg.cs",
+              "RelativeToolTip": "Assignment_4_solution\\Migrations\\20251216040355_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T04:03:55.478Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

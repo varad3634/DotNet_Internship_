@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Efdemo2/Efdemo2.csproj" Id="4418baab-185f-45d5-ac49-2227f3fbd4ca" />
+  <Project Path="ConsoleApp1/efdemo.csproj" />
+</Solution>

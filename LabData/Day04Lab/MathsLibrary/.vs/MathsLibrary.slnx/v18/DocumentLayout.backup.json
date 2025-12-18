@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\Day04Lab\\MathsLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\migrations\\20251215073201_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981DF78B-5DDB-411C-A0E9-DD4CE90D7348}|..\\MvcDemo1\\MvcDemo1.csproj|d:\\internship\\day04lab\\mvcdemo1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF0D2A9-5497-4FF0-9F2A-A683E6F30D17}|..\\Reflection\\Reflection.csproj|d:\\internship\\day04lab\\reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59FF82-096D-4BB8-BF3B-D328D68884F2}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\internship\\day04lab\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D59FF82-096D-4BB8-BF3B-D328D68884F2}|..\\ConsoleApp\\ConsoleApp.csproj|d:\\internship\\day04lab\\consoleapp\\consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "..\\MvcDemo1\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T13:45:14.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "..\\MvcDemo1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T13:09:32.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\MvcDemo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-15T07:12:34.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251215073201_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Migrations\\20251215073201_mg.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Migrations\\20251215073201_mg.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Migrations\\20251215073201_mg.cs",
+              "RelativeToolTip": "..\\MvcDemo1\\Migrations\\20251215073201_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:32:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Models\\StudentContext.cs",
+              "RelativeToolTip": "..\\MvcDemo1\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:24:44.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Models\\Student.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Models\\Student.cs",
+              "RelativeToolTip": "..\\MvcDemo1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:18:34.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\MvcDemo1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:08:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\Program.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\Program.cs",
+              "RelativeToolTip": "..\\MvcDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:06:08.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\MvcDemo1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\MvcDemo1\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Internship\\Day04Lab\\MvcDemo1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\MvcDemo1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-15T06:51:32.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Reflection\\Program.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\Reflection\\Program.cs",
+              "RelativeToolTip": "..\\Reflection\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCYAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:43:14.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleApp.csproj",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ToolTip": "D:\\Internship\\Day04Lab\\ConsoleApp\\ConsoleApp.csproj",
+              "RelativeToolTip": "..\\ConsoleApp\\ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T03:08:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\Day04Lab\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Internship\\Day04Lab\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:07:52.311Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

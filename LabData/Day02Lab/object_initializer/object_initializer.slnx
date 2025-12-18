@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../LinqDemo/LinqDemo.csproj" Id="99fb2e1b-da53-4add-a367-bccbcde5cd51" />
+  <Project Path="D:/Internship/Day02Lab/ArraysDemo/ArraysDemo.csproj" Id="72b3c9e6-600d-49ef-b795-8c313ff96ca9" />
+  <Project Path="D:/Internship/Day02Lab/CollectionDemo/CollectionDemo.csproj" Id="e69e6301-f74d-4348-8d6a-a0519eb079d9" />
+  <Project Path="D:/Internship/Day02Lab/InheritanceDemo/InheritanceDemo.csproj" Id="e1193334-5e84-4e48-8707-771c0870fde5" />
+  <Project Path="D:/Internship/Day02Lab/object_initializer/object_initializer/object_initializer.csproj" />
+</Solution>

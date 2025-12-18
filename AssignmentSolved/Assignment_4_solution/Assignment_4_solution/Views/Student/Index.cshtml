@@ -1,0 +1,60 @@
+﻿@model List<Assignment_4_solution.Models.Student>
+<html>
+<head>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+</head>
+<body>
+    <h1>Student Course Information</h1>
+    <a href="/Student/Create" class="btn btn-success">Add New Student</a>
+
+    <table class="table table-bordered border-Danger table-dark table-hover">
+
+        <thead>
+            <tr>
+                <th scope="col">Student ID</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Course ID</th>
+                <th scope="col">Course Name</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td scope="row">@item.StudentId</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>
+                        @foreach (var c in item.Courses)
+                        {
+                            <div>@c.CourseId</div>
+                        }
+                    </td>
+                    <td>
+                        @foreach (var c in item.Courses)
+                        {
+                            <div>@c.CourseName</div>
+                        }
+                    </td>
+
+
+                    <td>
+                        <a href="/Student/Edit/@item.StudentId" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="/Student/Delete/@item.StudentId"
+                           class="btn btn-danger btn-sm"
+                           onclick="return confirm('Are you sure?');">
+                            Delete
+                        </a>
+
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+
