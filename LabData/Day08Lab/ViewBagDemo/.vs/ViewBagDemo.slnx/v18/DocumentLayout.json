@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day08lab\\viewbagdemo\\viewbagdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|solutionrelative:viewbagdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day08lab\\viewbagdemo\\viewbagdemo\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|solutionrelative:viewbagdemo\\views\\home\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day08lab\\viewbagdemo\\viewbagdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE87F89-786C-4E28-AAD0-06FC031EA826}|ViewBagDemo\\ViewBagDemo.csproj|solutionrelative:viewbagdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Views\\Home\\Print.cshtml",
+              "RelativeDocumentMoniker": "ViewBagDemo\\Views\\Home\\Print.cshtml",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Views\\Home\\Print.cshtml",
+              "RelativeToolTip": "ViewBagDemo\\Views\\Home\\Print.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T03:21:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBagDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewBagDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-19T02:55:03.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBagDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day08Lab\\ViewBagDemo\\ViewBagDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBagDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T02:48:05.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

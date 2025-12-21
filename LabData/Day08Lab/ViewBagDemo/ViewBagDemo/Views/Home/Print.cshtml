@@ -1,0 +1,14 @@
+﻿@model ViewBagDemo.Program
+
+@{
+    ViewData["Title"] = "Print";
+}
+
+<h1> @ViewData["msg"]</h1>
+<h1> Welcome </h1>
+@if (TempData["TempMsg"] != null)
+{
+    <p> @TempData["TempMsg"] </p>
+}
+
+

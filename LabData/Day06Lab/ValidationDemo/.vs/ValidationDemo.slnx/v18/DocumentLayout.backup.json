@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38514870-4D5F-43DD-B341-66A7421962CC}|WebApplication1\\WebApplication1.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\webapplication1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38514870-4D5F-43DD-B341-66A7421962CC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38514870-4D5F-43DD-B341-66A7421962CC}|WebApplication1\\WebApplication1.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38514870-4D5F-43DD-B341-66A7421962CC}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\migrations\\20251218080555_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\migrations\\20251218080555_mg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day06lab\\validationdemo\\validationdemo\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79E154-C58A-0AB4-925B-F902BA8F776A}|ValidationDemo\\ValidationDemo.csproj|solutionrelative:validationdemo\\models\\sbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\WebApplication1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\WebApplication1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-18T09:58:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T09:56:16.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251218080555_mg.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Migrations\\20251218080555_mg.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Migrations\\20251218080555_mg.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Migrations\\20251218080555_mg.cs",
+              "RelativeToolTip": "ValidationDemo\\Migrations\\20251218080555_mg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:05:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Program.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Program.cs",
+              "RelativeToolTip": "ValidationDemo\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:59:37.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ValidationDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:42:47.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SbContext.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\SbContext.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Models\\SbContext.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\SbContext.cs",
+              "RelativeToolTip": "ValidationDemo\\Models\\SbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:36:19.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Models\\Course.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\Course.cs",
+              "RelativeToolTip": "ValidationDemo\\Models\\Course.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:34:23.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ValidationDemo\\Models\\Student.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day06Lab\\ValidationDemo\\ValidationDemo\\Models\\Student.cs",
+              "RelativeToolTip": "ValidationDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:32:40.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
