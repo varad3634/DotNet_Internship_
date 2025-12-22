@@ -3,8 +3,35 @@
   "WorkspaceRootPath": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF144FD-D8A4-4D0F-A21F-283B5633FE63}|..\\ConsoleApp1\\ConsoleApp1.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\modelbuilding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\modelbuilding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\identityseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +40,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\migrations\\20251220064332_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,14 +54,6 @@
       "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\modelbuilding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\modelbuilding.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,14 +64,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\marks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|solutionrelative:modelbuilding\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AEFEA3D-D3DC-0936-896A-2D19D7C717A8}|Modelbuilding\\Modelbuilding.csproj|d:\\internship\\gitdemo\\dotnet_internship_\\labdata\\day09lab\\day09modelbuilding\\modelbuilding\\modelbuilding.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -74,60 +77,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Program.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Program.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Program.cs",
-              "RelativeToolTip": "Modelbuilding\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:22:42.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Modelbuilding.csproj",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Modelbuilding.csproj",
-              "RelativeDocumentMoniker": "Modelbuilding\\Modelbuilding.csproj",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Modelbuilding.csproj",
-              "RelativeToolTip": "Modelbuilding\\Modelbuilding.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-20T04:27:57.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Tasks.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Tasks.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\Tasks.cs",
               "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Tasks.cs",
               "RelativeToolTip": "Modelbuilding\\Models\\Tasks.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:57:58.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T04:57:58.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\ApplicationDbContext.cs",
               "RelativeToolTip": "Modelbuilding\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwD8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:19:36.143Z"
+              "WhenOpened": "2025-12-20T04:19:36.143Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\Student.cs",
@@ -139,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\AppUser.cs",
@@ -151,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "IdentitySeed.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\IdentitySeed.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\IdentitySeed.cs",
@@ -159,84 +138,11 @@
               "RelativeToolTip": "Modelbuilding\\Models\\IdentitySeed.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:26:01.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-20T04:26:01.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Controllers\\AccountController.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Modelbuilding\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:10:53.678Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseGroup.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\CourseGroup.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Models\\CourseGroup.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\CourseGroup.cs",
-              "RelativeToolTip": "Modelbuilding\\Models\\CourseGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T06:24:27.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20251220064332_mg1.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Migrations\\20251220064332_mg1.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Migrations\\20251220064332_mg1.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Migrations\\20251220064332_mg1.cs",
-              "RelativeToolTip": "Modelbuilding\\Migrations\\20251220064332_mg1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T06:43:32.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Modelbuilding\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:12:59.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Models\\Course.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Course.cs",
-              "RelativeToolTip": "Modelbuilding\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T04:18:29.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Marks.cs",
-              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Marks.cs",
-              "RelativeDocumentMoniker": "Modelbuilding\\Models\\Marks.cs",
-              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Marks.cs",
-              "RelativeToolTip": "Modelbuilding\\Models\\Marks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T05:02:35.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Staff.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Staff.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\Staff.cs",
@@ -248,19 +154,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Subject.cs",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "Modelbuilding\\Models\\Subject.cs",
               "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Subject.cs",
               "RelativeToolTip": "Modelbuilding\\Models\\Subject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T05:14:10.656Z"
+              "WhenOpened": "2025-12-20T05:14:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Program.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Program.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Program.cs",
+              "RelativeToolTip": "Modelbuilding\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:22:42.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modelbuilding.csproj",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Modelbuilding.csproj",
+              "RelativeDocumentMoniker": "Modelbuilding\\Modelbuilding.csproj",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Modelbuilding.csproj",
+              "RelativeToolTip": "Modelbuilding\\Modelbuilding.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-20T04:27:57.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:12:22.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Modelbuilding\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:10:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseGroup.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\CourseGroup.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Models\\CourseGroup.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\CourseGroup.cs",
+              "RelativeToolTip": "Modelbuilding\\Models\\CourseGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:24:27.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20251220064332_mg1.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Migrations\\20251220064332_mg1.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Migrations\\20251220064332_mg1.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Migrations\\20251220064332_mg1.cs",
+              "RelativeToolTip": "Modelbuilding\\Migrations\\20251220064332_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T06:43:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Modelbuilding\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:12:59.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Models\\Course.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Course.cs",
+              "RelativeToolTip": "Modelbuilding\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T04:18:29.375Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Marks.cs",
+              "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Marks.cs",
+              "RelativeDocumentMoniker": "Modelbuilding\\Models\\Marks.cs",
+              "ToolTip": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Models\\Marks.cs",
+              "RelativeToolTip": "Modelbuilding\\Models\\Marks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T05:02:35.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Modelbuilding",
               "DocumentMoniker": "D:\\Internship\\GitDemo\\DotNet_Internship_\\LabData\\Day09Lab\\Day09ModelBuilding\\Modelbuilding\\Modelbuilding.csproj",
               "RelativeDocumentMoniker": "Modelbuilding\\Modelbuilding.csproj",
